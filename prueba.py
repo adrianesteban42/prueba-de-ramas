@@ -2,6 +2,7 @@ def metodoAdrian(self):
     print("hola mundo")
     print("modificacion")
 
+    print("hola buenas")
 
 
 def metodoMarcos(self):
